@@ -66,6 +66,10 @@ ul {
   font-style: normal;
 }
 
+.header-address {
+  font-style: normal;
+}
+
 .header-list-item :hover,
 .header-list-item :focus {
   color: #404bbf;
@@ -78,13 +82,16 @@ ul {
 /*===== slogan =====*/
 
 .slogan-title {
+  background-color: #2e2f42;
+}
+
+.slogan-title-text {
   color: #ffffff;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  background-color: #2e2f42;
 }
 
 .order-btn {
